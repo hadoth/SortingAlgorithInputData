@@ -1,5 +1,5 @@
 # SortingAlgorithInputData
-Powyższa paczka zawiera 480 plików z wygenberowanymi automatycznie danymi dotyczacymi prrocesów
+Powyższa paczka zawiera 480 plików z wygenerowanymi automatycznie danymi dotyczacymi prrocesów
 
 Struktura rekordu:
 UUID (unikalne ID procesu), czas zarejestrowania procesu w kolejce, czas niezbędny do wykonania procesu, szacowany czas niezbędny do wykonania procesu
